@@ -18,18 +18,31 @@ Here are some ideas to get you started:
 <h3 align="center" dir="auto"><a id="user-content-junior-full-stack-developer" class="anchor" aria-hidden="true" tabindex="-1" href="#junior-full-stack-developer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Junior Full Stack Developer</h3>
 
 <!-- Description -->
-<p align="left" dir="auto">
-After ten years in the health sector 👨‍⚕️ and being very interested in all the apps 📱 (I am part of Doctolib Pionnier) and solutions 🔥 w.  
-</p>
-
+<p>I am 39 years old and live in France. The past 10 years i was working on helping people making their own entreprise.</p>
 <!-- Short sentences -->
-🌱 I’m currently practising all the languages i have learnt in the past few months.
+<ul>
+  <li>
+    <p align="left" dir="auto">
+    🌱 I'm currently practising all the technical languages i have learnt in the past few months. . 
+  </li>
+  
+  <li>
+    🔥 It is now time to challenge myself in a way different world : the web develoment.  
+  </p>
+  </li>
+  
+  <li>
+    👨‍⚕️Fun fact : i became a fantastic  stay-at-home dad during 3 years 
+  </li>
 
-📫 How to reach me: aymard.de.dieu@gmail.com
-
-<p align="left" dir="auto"> <a href="https://share-campus.site" rel="nofollow"> <img src="https://www.share-campus.site/assets/favicon2-1e4b3d9f032bdef7f8082562741fd79eb9f61ac17336f293a5044aa3b7e93390.jpg" alt="share campus logo" width="25" height="25" style="max-width: 100%;"></a> 
-Fun fact : I am still working on my final project at Le Wagon : <a href="https://share-campus.site" rel="nofollow">SHARE</a> and i enjoy it so much !
-
+  <li>
+    <p align="left" dir="auto"> <a href="https://www.share-campus.site" rel="nofollow" target="_blank"> <img src="https://www.share-campus.site/assets/share-logo-8afc03edd29c0fd891aa6e82a52500b7aaff421b7e4e81ed06cf814127817fcb.jpg" alt="share-campus-logo" width="17" height="17" style="max-width: 100%;"></a> 
+    I am still working on my final project at Le Wagon : <a href="https://www.share-campus.site" rel="nofollow" target="_blank">Share</a> and i enjoy it so much !
+  </li>
+  <li>
+    📫 How to reach me: aymard.de.dieu@gmail.com
+  </li>
+</ul>
 <!-- Tools -->
 <h3 align="left" dir="auto"><a id="user-content--tools" class="anchor" aria-hidden="true" tabindex="-1" href="#-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🛠 Tools</h3>
 Slack, Notion, GitHub
