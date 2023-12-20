@@ -32,11 +32,11 @@ Here are some ideas to get you started:
   </li>
   
   <li>
-    👨‍⚕️Fun fact : i became a fantastic  stay-at-home dad during 3 years 
+    👨‍⚕️Fun fact, i was a fantastic and modern stay-at-home dad during 3 years 
   </li>
 
   <li>
-    <p align="left" dir="auto"> <a href="https://www.share-campus.site" rel="nofollow" target="_blank"> <img src="https://www.share-campus.site/assets/share-logo-8afc03edd29c0fd891aa6e82a52500b7aaff421b7e4e81ed06cf814127817fcb.jpg" alt="share-campus-logo" width="17" height="17" style="max-width: 100%;"></a> 
+    <p align="left" dir="auto"> <a href="https://www.share-campus.site"  target="_blank"> <img src="https://www.share-campus.site/assets/share-logo-8afc03edd29c0fd891aa6e82a52500b7aaff421b7e4e81ed06cf814127817fcb.jpg" alt="share-campus-logo" width="17" height="17" style="max-width: 100%;"></a> 
     I am still working on my final project at Le Wagon : <a href="https://www.share-campus.site" rel="nofollow" target="_blank">Share</a> and i enjoy it so much !
   </li>
   <li>
