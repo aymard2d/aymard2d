@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   </li>
   
   <li>
-    👨‍⚕️Fun fact, I loved being a stay at home dad for the last 3 years 
+    👨‍⚕️Fun fact, I loved being a stay-at-home dad for the last 3 years 
   </li>
 
   <li>
