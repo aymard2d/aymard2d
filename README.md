@@ -62,6 +62,9 @@ I'm currently practising all the technical languages I have learnt and new ones
             <li>
                Description: Final project @Le Wagon, completed in two weeks. Share Campus is an application designed specifically for students engaged in distance learning. It                    aims to facilitate the connection among students, simplify the sharing of experiences, whether by participating in events or by mutually offering support (sharing                  courses, assignments, etc.).
             </li>
+            <li>
+              Teammates : Sarah <a href= "https://github.com/sarahadre"> @sarahadre </a> , Julien <a href="https://github.com/RZ335i"> @RZ335i</a>, Yacine
+            </li>
             <li> <details><summary>Technologies Used:</summary>     
                <ul>
                   <li>Ruby on Rails </li> <li>PostgreSQL</li> <li>Javascript</li> <li>Cloudinary</li> <li>Devise</li> <li>ActionCable</li> <li>Heroku</li> <li>Figma</li>            
@@ -84,7 +87,6 @@ I'm currently practising all the technical languages I have learnt and new ones
             <li>
                Description: A website inspired by Airbnb, but instead of renting accommodations, it allows users to rent animals with specific skills. The goal is to connect users                 looking to rent an animal with its owner from anywhere in the world to fulfill missions.
             </li>
-            <li> <details><summary>Technologies Used:</summary>     
             <li>
               Project Links : <a href="https://github.com/aymard2d/_best_biche_eu"> Link to the repository </a>
             </li>
