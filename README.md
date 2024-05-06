@@ -73,6 +73,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/aymard2d/" target="_blank" rel="nofollow"><img align="center" target=_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pom.bleue" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 <p align="center">
-:index_vers_le_bas::couleur-de-peau-2: Check out a list of the Open Source projects I work on: :index_vers_le_bas::couleur-de-peau-2:
+👇🏻 Check out a list of the Open Source projects I work on: 👇🏻
 </p>
 
