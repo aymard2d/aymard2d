@@ -56,6 +56,16 @@ I'm currently practising all the technical languages I have learnt and new ones
 &nbsp;&nbsp;&nbsp;&nbsp;🚧 &nbsp; Explore my projects: 
   <br>
     <ul>
+      <li>ATELIER PLINGUET</a>
+        <li> <details><summary>Technologies Used:</summary>     
+       <ul>
+          <li>Ruby on Rails </li> <li>PostgreSQL</li> <li>Javascript</li> <li>Cloudinary</li> <li>Devise</li> <li>ActionCable</li> <li>Heroku</li> <li>Figma</li>            
+      </ul>
+          Project Links :
+        <ul> 
+         <li>
+           <a href="https://www.atelier-plinguet.fr"> Link to project presentation video </a>
+         </li> 
       <li>
         :busts_in_silhouette:&nbsp;SHARE CAMPUS
           <ul>
@@ -74,8 +84,9 @@ I'm currently practising all the technical languages I have learnt and new ones
               Project Links :
               <ul> 
                <li>
-                 <a href="https://www.youtube.com/watch?v=nUlu_WYCTY4&ab_channel=LeWagon"> Link to project presentation video </a> <a href="https://github.com/aymard2d/share-campus"> Link to the repository</a>
+                 <a href="https://www.youtube.com/watch?v=nUlu_WYCTY4&ab_channel=LeWagon"> Link to project presentation video </a>
                </li> 
+               <li><a href="https://github.com/aymard2d/share-campus"> Link to the repository</a></li>
               </ul>
             </li>
           </ul> 
@@ -88,7 +99,8 @@ I'm currently practising all the technical languages I have learnt and new ones
                Description: A website inspired by Airbnb, but instead of renting accommodations, it allows users to rent animals with specific skills. The goal is to connect users                 looking to rent an animal with its owner from anywhere in the world to fulfill missions.
             </li>
             <li>
-              Project Links : <a href="https://github.com/aymard2d/_best_biche_eu"> Link to the repository </a>
+              Project Links : 
+              <li><a href="https://github.com/aymard2d/_best_biche_eu"> Link to the repository </a></li>
             </li>
            </li>  
         </ul>
