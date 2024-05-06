@@ -31,15 +31,8 @@ I'm currently practising all the technical languages I have learnt and new ones
 👨‍⚕️Fun fact, I loved being a stay-at-home dad for the last 3 years 
 <br>
 <br>
+📫 How to reach me: aymard.de.dieu(at)gmail.com
 
-  <li>
-    <p align="left" dir="auto"> <a href="https://www.share-campus.site" rel="nofollow" target="_blank"> <img src="https://www.share-campus.site/assets/share-logo-8afc03edd29c0fd891aa6e82a52500b7aaff421b7e4e81ed06cf814127817fcb.jpg" alt="share-campus-logo" width="17" height="17" style="max-width: 100%;"></a> 
-    Here is my final project at Le Wagon : <a href="https://www.share-campus.site">Share Campus</a> 
-  </li>
-  <li>
-    📫 How to reach me: aymard.de.dieu(at)gmail.com
-  </li>
-</ul>
 
 &nbsp;&nbsp;&nbsp;&nbsp;🛠 &nbsp;Tech Stack 
 <br>
@@ -59,6 +52,65 @@ I'm currently practising all the technical languages I have learnt and new ones
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   <br>
   <br>
+
+   &nbsp;&nbsp;&nbsp;&nbsp;🚧 &nbsp; Explore my projects: 
+  <br>
+    <ul>
+      <li>
+        :busts_in_silhouette:&nbsp;SHARE CAMPUS
+          <ul>
+            <li>
+               Description: Final project @Le Wagon, completed in two weeks. Share Campus is an application designed specifically for students engaged in distance learning. It                    aims to facilitate the connection among students, simplify the sharing of experiences, whether by participating in events or by mutually offering support (sharing                  courses, assignments, etc.).
+            </li>
+            <li> <details><summary>Technologies Used:</summary>     
+               <ul>
+                  <li>Ruby on Rails </li> <li>PostgreSQL</li> <li>Javascript</li> <li>Cloudinary</li> <li>Devise</li> <li>ActionCable</li> <li>Heroku</li> <li>Figma</li>            
+              </ul>
+            </details></li>
+            <li>
+              Teammates : Aymard  <a href= "https://github.com/aymard2d"> ( @aymard2d) </a> , Julien <a href="https://github.com/RZ335i"> @RZ335i</a>, Yacine
+            </li>
+            <li>
+              Project Links :
+              <ul> 
+                  <li>
+                  <a href="https://www.share-campus.site/"> Link to the project </a>
+                </li> 
+                <li>
+                  <a href="https://www.youtube.com/watch?v=nUlu_WYCTY4&ab_channel=LeWagon"> Link to project presentation video </a>
+                </li>  
+                <li>
+                  <a href="https://github.com/aymard2d/share-campus"> Link to the repository </a>
+                </li> 
+              </ul>
+            </li>
+          </ul> 
+           </li>
+        <br>
+           <li>
+           	:fox_face:&nbsp;S Y J A
+          <ul>
+            <li>
+               Description: A website inspired by Airbnb, but instead of renting accommodations, it allows users to rent animals with specific skills. The goal is to connect users                 looking to rent an animal with its owner from anywhere in the world to fulfill missions.
+            </li>
+            <li> <details><summary>Technologies Used:</summary>     
+               <ul>
+                  <li>Ruby on Rails </li> <li>PostgreSQL</li> <li>Javascript</li> <li>Cloudinary</li> <li>Devise</li> <li>Mapbox</li> <li>Heroku</li> <li>Figma</li>            
+              </ul>
+            </details></li>
+            <li>
+              Teammates : Sarah <a href= "https://github.com/Sarahadre"> (@sarahadre) </a> , Julien <a href="https://github.com/RZ335i"> (@RZ335i)</a>, Yacine
+            </li>
+            <li>
+              Project Links :
+              <ul>  
+                <li>
+                  <a href="https://github.com/aymard2d/_best_biche_eu"> Link to the repository </a>
+                </li> 
+              </ul>
+            </li>
+           </li>  
+        </ul>
 <!-- Contact-me -->
 <h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" tabindex="-1" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Connect with me</h3>
 <p align="left" dir="auto">
