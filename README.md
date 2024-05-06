@@ -56,7 +56,11 @@ I'm currently practising all the technical languages I have learnt and new ones
 &nbsp;&nbsp;&nbsp;&nbsp;🚧 &nbsp; Explore my projects:
 <br>
   <ul>
-    <li>ATELIER PLINGUET</a>
+    <li>⚡ATELIER PLINGUET</a>
+    <ul>
+      <li>
+       Description: My inaugural personal project. It's an application tailored for a furniture refurbishment website. I was involved in the entire lifecycle, from conceptualization to production deployment.
+      </li>
       <li><details><summary>Technologies Used:</summary>     
          <ul>
             <li>Ruby on Rails </li> <li>PostgreSQL</li> <li>Javascript</li> <li>Cloudinary</li> <li>Devise</li> <li>ActionCable</li> <li>Heroku</li> <li>Figma</li>            
@@ -67,12 +71,13 @@ I'm currently practising all the technical languages I have learnt and new ones
               <a href="https://www.atelier-plinguet.fr"> Link to project presentation video </a>
             </li>
           </ul>
+        </ul>
         </li>
         <li>
         :busts_in_silhouette:&nbsp;SHARE CAMPUS
           <ul>
             <li>
-               Description: Final project @Le Wagon, completed in two weeks. Share Campus is an application designed specifically for students engaged in distance learning. It                    aims to facilitate the connection among students, simplify the sharing of experiences, whether by participating in events or by mutually offering support (sharing                  courses, assignments, etc.).
+               Description: Final project @Le Wagon, completed in two weeks. Share Campus is an application designed specifically for students engaged in distance learning. It                    aims to facilitate the connection among students, simplify the sharing of experiences, whether by participating in events or by mutually offering support (sharing courses, assignments, etc.).
             </li>
             <li>
               Teammates : Sarah <a href= "https://github.com/sarahadre"> @sarahadre </a> , Julien <a href="https://github.com/RZ335i"> @RZ335i</a>, Yacine
