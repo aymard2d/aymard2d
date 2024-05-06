@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 <!-- Short sentences -->
 
 <p align="left" dir="auto">
-🌱 I'm currently practising all the technical languages I have learnt and new ones
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 I'm currently practising all the technical languages I have learnt and new ones
 <br>
 <br>
-🔥 It is time to look for professional opportunities to enhance my skills and contribute to stimulating projects.
+&nbsp;&nbsp;&nbsp;&nbsp;🔥 It is time to look for professional opportunities to enhance my skills and contribute to stimulating projects.
 <br>
 <br>
-👨‍⚕️Fun fact, I loved being a stay-at-home dad for the last 3 years 
+&nbsp;&nbsp;&nbsp;&nbsp;👨‍⚕️Fun fact, I loved being a stay-at-home dad for the last 3 years 
 <br>
 <br>
-📫 How to reach me: aymard.de.dieu(at)gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me: aymard.de.dieu(at)gmail.com
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;🛠 &nbsp;Tech Stack 
