@@ -53,7 +53,7 @@ I'm currently practising all the technical languages I have learnt and new ones
   <br>
   <br>
 
-   &nbsp;&nbsp;&nbsp;&nbsp;🚧 &nbsp; Explore my projects: 
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 &nbsp; Explore my projects: 
   <br>
     <ul>
       <li>
@@ -68,20 +68,11 @@ I'm currently practising all the technical languages I have learnt and new ones
               </ul>
             </details></li>
             <li>
-              Teammates : Aymard  <a href= "https://github.com/aymard2d"> ( @aymard2d) </a> , Julien <a href="https://github.com/RZ335i"> @RZ335i</a>, Yacine
-            </li>
-            <li>
               Project Links :
               <ul> 
-                  <li>
-                  <a href="https://www.share-campus.site/"> Link to the project </a>
-                </li> 
-                <li>
-                  <a href="https://www.youtube.com/watch?v=nUlu_WYCTY4&ab_channel=LeWagon"> Link to project presentation video </a>
-                </li>  
-                <li>
-                  <a href="https://github.com/aymard2d/share-campus"> Link to the repository </a>
-                </li> 
+               <li>
+                 <a href="https://www.youtube.com/watch?v=nUlu_WYCTY4&ab_channel=LeWagon"> Link to project presentation video </a> <a href="https://github.com/aymard2d/share-campus"> Link to the repository</a>
+               </li> 
               </ul>
             </li>
           </ul> 
@@ -94,20 +85,8 @@ I'm currently practising all the technical languages I have learnt and new ones
                Description: A website inspired by Airbnb, but instead of renting accommodations, it allows users to rent animals with specific skills. The goal is to connect users                 looking to rent an animal with its owner from anywhere in the world to fulfill missions.
             </li>
             <li> <details><summary>Technologies Used:</summary>     
-               <ul>
-                  <li>Ruby on Rails </li> <li>PostgreSQL</li> <li>Javascript</li> <li>Cloudinary</li> <li>Devise</li> <li>Mapbox</li> <li>Heroku</li> <li>Figma</li>            
-              </ul>
-            </details></li>
             <li>
-              Teammates : Sarah <a href= "https://github.com/Sarahadre"> (@sarahadre) </a> , Julien <a href="https://github.com/RZ335i"> (@RZ335i)</a>, Yacine
-            </li>
-            <li>
-              Project Links :
-              <ul>  
-                <li>
-                  <a href="https://github.com/aymard2d/_best_biche_eu"> Link to the repository </a>
-                </li> 
-              </ul>
+              Project Links : <a href="https://github.com/aymard2d/_best_biche_eu"> Link to the repository </a>
             </li>
            </li>  
         </ul>
