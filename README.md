@@ -53,20 +53,22 @@ I'm currently practising all the technical languages I have learnt and new ones
   <br>
   <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 &nbsp; Explore my projects: 
-  <br>
-    <ul>
-      <li>ATELIER PLINGUET</a>
-        <li> <details><summary>Technologies Used:</summary>     
-       <ul>
-          <li>Ruby on Rails </li> <li>PostgreSQL</li> <li>Javascript</li> <li>Cloudinary</li> <li>Devise</li> <li>ActionCable</li> <li>Heroku</li> <li>Figma</li>            
-      </ul>
-          Project Links :
+&nbsp;&nbsp;&nbsp;&nbsp;🚧 &nbsp; Explore my projects:
+<br>
+  <ul>
+    <li>ATELIER PLINGUET</a>
+      <li><details><summary>Technologies Used:</summary>     
+         <ul>
+            <li>Ruby on Rails </li> <li>PostgreSQL</li> <li>Javascript</li> <li>Cloudinary</li> <li>Devise</li> <li>ActionCable</li> <li>Heroku</li> <li>Figma</li>            
+          </ul>
+        Project Links :
         <ul> 
-         <li>
-           <a href="https://www.atelier-plinguet.fr"> Link to project presentation video </a>
-         </li> 
-      <li>
+          <li>
+            <a href="https://www.atelier-plinguet.fr"> Link to project presentation video </a>
+          </li>
+        </ul>
+      </li>
+        <li>
         :busts_in_silhouette:&nbsp;SHARE CAMPUS
           <ul>
             <li>
