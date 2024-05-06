@@ -18,22 +18,19 @@ Here are some ideas to get you started:
 <!-- Description -->
 <p>I am 39 years old and live in France. The past 10 years I was working on helping people create their own entreprise.</p>
 <!-- Short sentences -->
-<ul>
-  <li>
-    <p align="left" dir="auto">
-    🌱 I realized a website (front and back from scratch to deploy) for an furniture upcycling company.
-       <a href="https://atelier-plinguet.fr">Atelier Plinguet</a>
-        I'm currently practising all the technical languages I have learnt in the past few months.
-  </li>
-  
-  <li>
-    🔥 It is now time to challenge myself in a way different world : web development
-  </p>
-  </li>
-  
-  <li>
-    👨‍⚕️Fun fact, I loved being a stay-at-home dad for the last 3 years 
-  </li>
+
+<p align="left" dir="auto">
+🌱 I realized a website (front and back from scratch to deploy) for a furniture upcycling company.
+<a href="https://atelier-plinguet.fr">Atelier Plinguet</a>
+I'm currently practising all the technical languages I have learnt and new ones
+<br>
+<br>
+🔥 It is time to look for professional opportunities to enhance my skills and contribute to stimulating projects.
+<br>
+<br>
+👨‍⚕️Fun fact, I loved being a stay-at-home dad for the last 3 years 
+<br>
+<br>
 
   <li>
     <p align="left" dir="auto"> <a href="https://www.share-campus.site" rel="nofollow" target="_blank"> <img src="https://www.share-campus.site/assets/share-logo-8afc03edd29c0fd891aa6e82a52500b7aaff421b7e4e81ed06cf814127817fcb.jpg" alt="share-campus-logo" width="17" height="17" style="max-width: 100%;"></a> 
