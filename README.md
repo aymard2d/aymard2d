@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 <p align="center">
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/a2d/"><img src="https://img.shields.io/badge/Sarah%20André-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:aymard.de.dieu@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/sarahandrre@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:aymard.de.dieu@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/aymard.de.dieu@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 <p align="center">
 👇🏻 Check out a list of the Open Source projects I work on: 👇🏻
