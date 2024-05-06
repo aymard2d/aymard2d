@@ -61,13 +61,13 @@ I'm currently practising all the technical languages I have learnt and new ones
          <ul>
             <li>Ruby on Rails </li> <li>PostgreSQL</li> <li>Javascript</li> <li>Cloudinary</li> <li>Devise</li> <li>ActionCable</li> <li>Heroku</li> <li>Figma</li>            
           </ul>
-        Project Links :
-        <ul> 
-          <li>
-            <a href="https://www.atelier-plinguet.fr"> Link to project presentation video </a>
-          </li>
-        </ul>
-      </li>
+        <li>Project Links :</li>    
+          <ul> 
+            <li>
+              <a href="https://www.atelier-plinguet.fr"> Link to project presentation video </a>
+            </li>
+          </ul>
+        </li>
         <li>
         :busts_in_silhouette:&nbsp;SHARE CAMPUS
           <ul>
