@@ -63,7 +63,7 @@ Here are some ideas to get you started:
         <li>Project Links :</li>    
           <ul> 
             <li>
-              <a href="https://www.atelier-plinguet.fr"> Link to project</a>
+              <a href="https://www.atelier-plinguet.fr" target="_blank"> Link to project</a>
             </li>
           </ul>
         </ul>
