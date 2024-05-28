@@ -59,14 +59,15 @@ Here are some ideas to get you started:
          <ul>
             <li>Ruby on Rails </li> <li>PostgreSQL</li> <li>Javascript</li> <li>Cloudinary</li> <li>Devise</li> <li>ActionCable</li> <li>Heroku</li> <li>Figma</li>            
           </ul>
+      </details></li>
         <li>Project Links :</li>    
           <ul> 
             <li>
-              <a href="https://www.atelier-plinguet.fr"> Link to project presentation video </a>
+              <a href="https://www.atelier-plinguet.fr"> Link to project</a>
             </li>
           </ul>
         </ul>
-        </li>
+     <br>
         <li>
         :busts_in_silhouette:&nbsp;SHARE CAMPUS
           <ul>
@@ -101,7 +102,9 @@ Here are some ideas to get you started:
             </li>
             <li>
               Project Links : 
-              <li><a href="https://github.com/aymard2d/_best_biche_eu"> Link to the repository </a></li>
+              <ul>
+                <li><a href="https://github.com/aymard2d/_best_biche_eu"> Link to the repository </a></li>
+              </ul>
             </li>
            </li>  
         </ul>
